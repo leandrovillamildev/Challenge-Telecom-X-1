@@ -2,7 +2,7 @@
 <br>
 <p align="center"> <img width="500" height="500" alt="Insignia" src="https://github.com/user-attachments/assets/7193eb23-518a-4507-accb-cddbfe9ea70b" /> </p>
 <br>
-<h2>🚀Instrucciones para ejecutar el Notebook</h2>
+<h2>🚀 Instrucciones para ejecutar el Notebook</h2>
 <p>Para ejecutar este notebook en Google Colab, sigue los siguientes pasos: </p>
 <p>1. Abre Google Colab en tu navegador web. </p>
 <p>2. Haz click en "Subir" > luego en "explorar" > y selecciona el archivo.ipynb de este proyecto desde tu computadora. </p>
